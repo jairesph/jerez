@@ -1,0 +1,15 @@
+<html>
+<<<<<<< HEAD
+<head>
+<title></title>
+</head>
+<body>
+	belleo tae
+	jerez
+	master grant
+	atik2x
+	ma ka daot ang ariel sa sanina?
+	ma ka daot ang ariel sa sanina?
+	ma ka daot ang ariel sa sanina?
+</body>
+</html>
